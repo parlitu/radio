@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:0,Romanian Retro Radio
+http://radio.parlitu.uk:8000/stream
+#EXTINF:0,Virgin Radio
+http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+#EXTINF:0,Europa FM
+http://astreaming.europafm.ro:8000/europafm_aacp48k
+#EXTINF:0,Pro DJ Radio
+http://live.prodjradio.net:8042/;
+#EXTINF:0,Kiss FM
+https://live.kissfm.ro/kissfm.aacp
+#EXTINF:0,Pro FM
+http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:0,România Actualitati
+http://89.238.227.6:8006/;
+#EXTINF:0,Digi FM
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:0,România Cultural
+http://stream2.srr.ro:8012/;
+#EXTINF:0,Romantic FM
+http://zuicast.digitalag.ro:9420/romanticfm
+#EXTINF:0,Magic FM
+http://80.86.106.143:9128/magicfm.aacp
+#EXTINF:0,Radio ZU
+http://zuicast.digitalag.ro:9420/zu
+#EXTINF:0,Radio Guerilla
+http://live.guerrillaradio.ro:8010/guerrilla.aac
+#EXTINF:0,Radio TaNaNaNa
+http://live.tananana.ro:8010/stream-48.aac?1459586094241.aac
+#EXTINF:0,România Antena Satelor
+http://stream2.srr.ro:8042/;
+#EXTINF:0,Radio Crazy
+http://live.crazyradio.ro:8024/stream
+#EXTINF:0,Radio 7
+http://80.86.106.32:8000/radio7.mp3
+#EXTINF:0,Radio Bandit
+http://live.radiobandit.ro:8000/bandit.aac
+#EXTINF:0,România Muzical
+http://stream2.srr.ro:8022/;
+
+
+#EXTINF:0,------- MISC Stations -------
+http://bbc.co.uk
+
+#EXTINF:0,Easy Hits
+http://ic2ti.scahw.com.au/2easy_32
+#EXTINF:0,Capital FM
+http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:0,Heart UK
+http://vis.media-ice.musicradio.com/HeartUK
+
+#EXTINF:0,------- BBC Stations -------
+http://bbc.co.uk
+
+#EXTINF:0,BBC - Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:0,BBC - Radio 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:0,BBC - Radio 3
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:0,BBC - Radio 4
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+#EXTINF:0,BBC - Radio 4 LW (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw
+#EXTINF:0,BBC - Radio 4 LW (non-UK)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk
+#EXTINF:0,BBC - Radio 5 live (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live
+#EXTINF:0,BBC - Radio 5 live (non-UK)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+#EXTINF:0,BBC - Radio 6 Music
+http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+#EXTINF:0,BBC - Radio 1Xtra
+http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+#EXTINF:0,BBC - Radio 4 Extra
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+#EXTINF:0,BBC - Radio 5 Live sports extra (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_sports_extra
+#EXTINF:0,BBC - Radio Asian Network
+http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
+#EXTINF:0,BBC - BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:0,BBC - BBC CWR
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_coventry_warwickshire
+#EXTINF:0,BBC - BBC Essex
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_essex
+#EXTINF:0,BBC - BBC Hereford Worcester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester
+#EXTINF:0,BBC - Radio Berkshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire
+#EXTINF:0,BBC - Radio Bristol
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_bristol
+#EXTINF:0,BBC - Radio Cambridge
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cambridge
+#EXTINF:0,BBC - Radio Cornwall
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall
+#EXTINF:0,BBC - Radio Cumbria
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria
+#EXTINF:0,BBC - Radio Cymru
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru
+#EXTINF:0,BBC - Radio Cymru 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2
+#EXTINF:0,BBC - Radio Derby
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
+#EXTINF:0,BBC - Radio Devon
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon
+#EXTINF:0,BBC - Radio Foyle
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:0,BBC - Radio Gloucestershire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
+#EXTINF:0,BBC - Radio Guernsey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey
+#EXTINF:0,BBC - Radio Humberside
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside
+#EXTINF:0,BBC - Radio Jersey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey
+#EXTINF:0,BBC - Radio Kent
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_kent
+#EXTINF:0,BBC - Radio Lancashire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
+#EXTINF:0,BBC - Radio Leeds
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leeds
+#EXTINF:0,BBC - Radio Leicester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leicester
+#EXTINF:0,BBC - Radio Lincolnshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lincolnshire
+#EXTINF:0,BBC - Radio London
+http://stream.live.vc.bbcmedia.co.uk/bbc_london
+#EXTINF:0,BBC - Radio Manchester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
+#EXTINF:0,BBC - Radio Merseyside
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_merseyside
+#EXTINF:0,BBC - Radio nan Gaidheal
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal
+#EXTINF:0,BBC - Radio Newcastle
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle
+#EXTINF:0,BBC - Radio Norfolk
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_norfolk
+#EXTINF:0,BBC - Radio Northampton
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_northampton
+#EXTINF:0,BBC - Radio Nottingham
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham
+#EXTINF:0,BBC - Radio Orkney
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney
+#EXTINF:0,BBC - Radio Oxford
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford
+#EXTINF:0,BBC - Radio Scotland FM
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm
+#EXTINF:0,BBC - Radio Scotland MW
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw
+#EXTINF:0,BBC - Radio Sheffield
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sheffield
+#EXTINF:0,BBC - Radio Shropshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_shropshire
+#EXTINF:0,BBC - Radio Solent
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent
+#EXTINF:0,BBC - Radio Solent West Dorset
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset
+#EXTINF:0,BBC - Radio Somerset Sound
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound
+#EXTINF:0,BBC - Radio Stoke
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_stoke
+#EXTINF:0,BBC - Radio Suffolk
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk
+#EXTINF:0,BBC - Radio Surrey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_surrey
+#EXTINF:0,BBC - Radio Sussex
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex
+#EXTINF:0,BBC - Radio Tees
+http://stream.live.vc.bbcmedia.co.uk/bbc_tees
+#EXTINF:0,BBC - Radio Ulster
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
+#EXTINF:0,BBC - Radio Wales
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm
+#EXTINF:0,BBC - Radio Wiltshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wiltshire
+#EXTINF:0,BBC - Radio WM
+http://stream.live.vc.bbcmedia.co.uk/bbc_wm
+#EXTINF:0,BBC - Radio York
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_york
+#EXTINF:0,BBC - Three Counties Radio
+http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio
+
