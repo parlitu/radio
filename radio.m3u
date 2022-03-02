@@ -61,13 +61,9 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF:0,BBC - Radio 4
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
-#EXTINF:0,BBC - Radio 4 LW (UK only)
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw
-#EXTINF:0,BBC - Radio 4 LW (non-UK)
+#EXTINF:0,BBC - Radio 4 LW
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk
-#EXTINF:0,BBC - Radio 5 live (UK only)
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live
-#EXTINF:0,BBC - Radio 5 live (non-UK)
+#EXTINF:0,BBC - Radio 5 live
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
 #EXTINF:0,BBC - Radio 6 Music
 http://stream.live.vc.bbcmedia.co.uk/bbc_6music
