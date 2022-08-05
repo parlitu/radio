@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:0,Romanian Retro Radio
-http://radio.parlitu.uk:8000/stream
+http://radio.parlitu.uk:8000/roradio
+#EXTINF:0,NixRadio
+http://nixradio.net:8001/nixradio
 #EXTINF:0,Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 #EXTINF:0,Europa FM
@@ -43,12 +45,21 @@ http://stream2.srr.ro:8022/;
 #EXTINF:0,------- MISC Stations -------
 http://bbc.co.uk
 
-#EXTINF:0,Easy Hits
-http://ic2ti.scahw.com.au/2easy_32
 #EXTINF:0,Capital FM
 http://media-ice.musicradio.com/CapitalMP3
 #EXTINF:0,Heart UK
 http://vis.media-ice.musicradio.com/HeartUK
+#EXTINF:0,Nova FM
+https://21423.live.streamtheworld.com/NOVA_969_AAC48.aac
+#EXTINF:0,ABC Country
+https://live-radio01.mediahubaustralia.com/CTRW/aac
+#EXTINF:0,ABC News Radio
+http://live-radio01.mediahubaustralia.com/PBW/aac
+#EXTINF:0,SBS Chill
+https://sbs-ice.streamguys1.com/sbschill-sbs-web
+#EXTINF:0,Mix FM
+https://ic6ti.scahw.com.au/6mix_128
+
 
 #EXTINF:0,------- BBC Stations -------
 http://bbc.co.uk
