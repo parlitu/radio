@@ -24,8 +24,7 @@ http://bbc.co.uk
 
 #EXTINF:0,Romanian Retro Radio
 http://radio.parlitu.uk:8000/roradio
-#EXTINF:0,NixRadio
-http://nixradio.net:8001/nixradio
+
 #EXTINF:0,Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 #EXTINF:0,Europa FM
